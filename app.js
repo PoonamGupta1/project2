@@ -6,3 +6,4 @@ alert("Hello World!");
 // add new comment here
 
 console.log("Feature updated!");
+console.log("main updated!");
